@@ -1,0 +1,38 @@
+{
+    "name": "cubenl/postcode-nl",
+    "description": "Postcode.nl API",
+    "authors": [
+        {
+            "name": "Mike van Vossen",
+            "email": "mike@cube.nl"
+        },
+        {
+            "name": "Dion Boerrigter",
+            "email": "dion@cube.nl"
+        }
+    ],
+    "require": {
+        "php": "^8.1",
+        "guzzlehttp/guzzle": "^7.9"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^8.34"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cubenl\\PostcodeNL\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Cubenl\\PostcodeNL\\PostcodeNLServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

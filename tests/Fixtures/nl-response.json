@@ -1,0 +1,30 @@
+{
+  "street": "Ganzenmarkt",
+  "streetNen": "Ganzenmarkt",
+  "houseNumber": 2,
+  "houseNumberAddition": "",
+  "postcode": "7571CD",
+  "city": "Oldenzaal",
+  "cityShort": "Oldenzaal",
+  "cityId": "1668",
+  "municipality": "Oldenzaal",
+  "municipalityShort": "Oldenzaal",
+  "municipalityId": "0173",
+  "province": "Overijssel",
+  "rdX": 260152,
+  "rdY": 481579,
+  "latitude": 52.31210316,
+  "longitude": 6.92925934,
+  "bagNumberDesignationId": "0173200000175988",
+  "bagAddressableObjectId": "0173010000175989",
+  "addressType": "building",
+  "purposes": [
+    "office"
+  ],
+  "surfaceArea": 598,
+  "houseNumberAdditions": [
+    "",
+    "a",
+    "b"
+  ]
+}
