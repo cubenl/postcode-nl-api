@@ -5,22 +5,8 @@ A Laravel package that integrates with the [Postcode.nl API](https://www.postcod
 This package supports Laravel 10 and 11. Tested with PHPUnit 10 and PHP 8.2+.
 ## 📦 Installation
 
-
-Add the following to your project's `composer.json`.
-
 ```
-{
-    "repositories": [{
-        "type": "composer",
-        "url": "https://satis.cube.nl"
-    }]
-}
-```
-and
-```
-"require": {
-    "cubenl/postcode-nl": "dev-main",
-}    
+composer require cubenl/postcode-nl
 ```
 
 ## ⚙️ Configuration
