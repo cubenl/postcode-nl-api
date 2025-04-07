@@ -1,6 +1,13 @@
 {
     "name": "cube-nl/postcode-nl",
+    "license": "BSD-3-Clause",
     "description": "Postcode.nl API",
+    "keywords": [
+        "laravel",
+        "postcode-nl",
+        "postcode-api-nl",
+        "autocomplete"
+    ],
     "authors": [
         {
             "name": "Mike van Vossen",
