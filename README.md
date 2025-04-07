@@ -6,7 +6,7 @@ This package supports Laravel 10 and 11. Tested with PHPUnit 10 and PHP 8.2+.
 ## 📦 Installation
 
 ```
-composer require cubenl/postcode-nl
+composer require cube-nl/postcode-nl
 ```
 
 ## ⚙️ Configuration
